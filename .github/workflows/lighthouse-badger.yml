@@ -50,7 +50,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: ${{ env.REPOSITORY }}
-        
           ref: ${{ env.BRANCH }}
       - uses: actions/checkout@v4
         with:
