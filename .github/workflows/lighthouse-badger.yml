@@ -14,7 +14,6 @@ name: "Lighthouse Badger"
 
 # INPUTS as environmental variables (env) for not manually triggered workflows
 env:
-  # URLS: https://alshedivat.github.io/al-folio/
   URLS: https://wljLlla.github.io
   TOKEN_NAME: LIGHTHOUSE_BADGER_TOKEN
   # If any of the following env is blank, a default value is used instead
