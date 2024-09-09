@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Zhejiang University</a>. wanglijin@zju.edu.cn
+subtitle: <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>. wanglijin@zju.edu.cn
 
 profile:
   align: right
