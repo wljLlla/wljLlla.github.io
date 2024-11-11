@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-&#x1F4A1; Our new paper: <a href="../aasets/pdf/mergebackdoor_pdf.pdf">MergeBackdoor</a>.
+&#x1F4A1; Our new paper: MergeBackdoor. Refer to Publications for more details.
 <!-- A simple inline announcement. -->
