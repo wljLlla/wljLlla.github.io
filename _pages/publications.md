@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: You can find a comprehensive list of my publications on my Google Scholar.
+description: You can find a comprehensive list of my publications on Google Scholar.
 nav: true
 nav_order: 2
 ---
