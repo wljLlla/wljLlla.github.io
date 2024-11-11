@@ -16,3 +16,10 @@ Organize your courses by years, topics, or universities, however you like! -->
 <ul>
     <li>ICLR2025</li>
 </ul>
+
+<h1>Teaching</h1>
+<hr>
+<ul>
+    <li>Advanced Machine Learning</li>
+    <li>Introduction to Artificial Intelligence</li>
+</ul>
