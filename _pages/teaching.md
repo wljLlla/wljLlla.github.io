@@ -11,15 +11,15 @@ For now, this page is assumed to be a static description of your courses. You ca
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-<h1>Reviewer</h1>
+<h5>Reviewer</h5>
 <hr>
 <ul>
-    <li>ICLR2025</li>
+    <li>The International Conference on Learning Representations (ICLR), 2025</li>
 </ul>
 
-<h1>Teaching</h1>
+<h5>Teaching Assistant</h5>
 <hr>
 <ul>
-    <li>Advanced Machine Learning</li>
-    <li>Introduction to Artificial Intelligence</li>
+    <li>The Ethics and Security of Artificial Intelligence, 2022 Summer, ZJU</li>
+    <li>Postgraduate Academic and Dissertation Writing, 2023 Summer, ZJU</li>
 </ul>
