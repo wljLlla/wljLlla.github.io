@@ -21,4 +21,8 @@ I am currently a Research Assistant at <a href="https://www.hkust-gz.edu.cn">HKU
 
 Before that, I obtained my Master's degree at <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a> under the supervision of Prof. <a href='https://yziqi.github.io'>Ziqi Yang</a>, and my Bachelor's degree at <a href='http://jsxy.zucc.edu.cn'>Hangzhou City University</a> under the supervision of Prof. <a href='http://jsxy.hzcu.edu.cn/art/2023/2/17/art_265_29278.html'>Jinling Wei</a>.
 
-My research interests lie in Trustworthy AI. Previously, I focused on exploring <b><i>how</i></b> potential security issues arise in ML models. Going forward, I intend to investigate <b><i>why</i></b> these security issues occur, aiming to develop a unified theory to explain the security vulnerabilities in ML models.
+<!-- My research interests lie in Trustworthy AI. Previously, I focused on exploring <b><i>how</i></b> potential security issues arise in ML models. Going forward, I intend to investigate <b><i>why</i></b> these security issues occur, aiming to develop a unified theory to explain the security vulnerabilities in ML models. -->
+
+My research interest lies in Trustworthy AI. Currently, I am dedicated to exploring <b><i>how</i></b> potential security issues arise in ML models. Ultimately, I seek to understand <b><i>why</i></b> these security issues occur, aiming to develop a unified theory to explain the security vulnerabilities in ML models.
+
+
