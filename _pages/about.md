@@ -16,8 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a Research Assistant at <a href="https://www.hkust-gz.edu.cn">HKUST (GZ)</a>, under the supervision of Prof. <a href="https://xinleihe.github.io">Xinlei He</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before that, I obtained my Master's degree at <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a> under the supervision of Prof. <a href='https://yziqi.github.io'>Ziqi Yang</a>, and my Bachelor's degree at Hangzhou City University under the supervision of Prof. <a href='http://jsxy.hzcu.edu.cn/art/2023/2/17/art_265_29278.html'>Jinling Wei</a>.
+
+My research interests lie in Trustworthy AI. Previously, I focused on exploring <b><i>how</i></b> potential security issues arise in ML models. Going forward, I intend to investigate <b><i>why</i></b> these security issues occur, aiming to develop a unified theory to explain the security vulnerabilities in ML models.
