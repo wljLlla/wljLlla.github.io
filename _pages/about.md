@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Research Assistant at <a href="https://www.hkust-gz.edu.cn">HKUST (GZ)</a>, under the supervision of Prof. <a href="https://xinleihe.github.io">Xinlei He</a>.
+I am currently a Research Assistant at <a href="https://www.hkust-gz.edu.cn">Hong Kong University of Science and Technology (Guangzhou)</a>, under the supervision of Prof. <a href="https://xinleihe.github.io">Xinlei He</a>.
 
 
 Before that, I obtained my Master's degree at <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a> under the supervision of Prof. <a href='https://yziqi.github.io'>Ziqi Yang</a>, and my Bachelor's degree at <a href='http://jsxy.zucc.edu.cn'>Hangzhou City University</a> under the supervision of Prof. <a href='http://jsxy.hzcu.edu.cn/art/2023/2/17/art_265_29278.html'>Jinling Wei</a>.
