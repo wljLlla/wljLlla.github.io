@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-&#x1F3C3; I will joining HKUST (GZ) as a Research Assistant.
+&#x1F3C3; I will join HKUST (GZ) as a Research Assistant.
 
