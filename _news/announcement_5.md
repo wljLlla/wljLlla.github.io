@@ -1,10 +1,8 @@
 ---
 layout: post
-date: 2024-9-30 15:59:00-0400
+date: 2025-01-24 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-&#x1F468;&#x200D;&#x1F4BB; I will serve as a reviewer for <a href="https://iclr.cc/Conferences/2025/Dates">ICLR 2025</a>.
-
-
+&#x1F389;  One paper got accepted by <a href="https://www.usenix.org/conference/usenixsecurity24">USENIX Security 2025</a>.
