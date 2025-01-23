@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-&#x1F389;  One paper got accepted by <a href="https://www.usenix.org/conference/usenixsecurity24">USENIX Security 2025</a>.
+&#x1F389;  One paper got accepted by <a href="https://www.usenix.org/conference/usenixsecurity25">USENIX Security 2025</a>.

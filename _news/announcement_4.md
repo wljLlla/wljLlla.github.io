@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2024-09-05 15:59:00-0400
+date: 2024-9-30 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-&#x1F4A1; Our new paper: MergeBackdoor. Refer to Publications for more details.
-<!-- A simple inline announcement. -->
+&#x1F468;&#x200D;&#x1F4BB; I will serve as a reviewer for <a href="https://iclr.cc/Conferences/2025/Dates">ICLR 2025</a>.
