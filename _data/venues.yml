@@ -1,6 +1,9 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"USENIX Sec":
+  url: https://www.usenix.org
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"IEEE S&P":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000646/all-proceedings
+
+"AAAI":
+  url: https://aaai.org
