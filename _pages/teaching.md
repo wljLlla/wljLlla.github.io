@@ -15,6 +15,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 <hr>
 <ul>
     <li>The International Conference on Learning Representations (ICLR), 2025</li>
+    <li>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026</li>
 </ul>
 
 <h5>Teaching Assistant</h5>
